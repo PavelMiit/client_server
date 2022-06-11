@@ -1,1 +1,1 @@
-# Client_Server
+client-server architecture
